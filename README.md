@@ -4,7 +4,7 @@ Official code release for **# Delta Activations: A Representation for Finetuned 
 
 Checkout our **[project website](https://oscarxzq.github.io/delta_activation)** for an interactive model embedding navigator!
 
-> [Delta Activations: A Representation for Finetuned Large Language Models](TODO)
+> [Delta Activations: A Representation for Finetuned Large Language Models](https://arxiv.org/abs/2509.04442)
 > <br> [Zhiqiu Xu*](https://oscarxzq.github.io), [Amish Sethi*](https://amishsethi.github.io/personal-website/), [Mayur Naik](https://www.cis.upenn.edu/~mhnaik/), [Ser-Nam Lim](https://sites.google.com/site/sernam)
 > <br> University of Pennsylvania, University of Central Florida<br>
 
@@ -87,7 +87,7 @@ If you find this repository helpful, please consider citing
 @article{xu2025delta,
   title={Delta Activations: A Representation for Finetuned Large Language Models},
   author={Xu, Zhiqiu and Sethi, Amish and Naik, Mayur and Lim, Ser-Nam},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2509.04442},
   year={2025}
 }
 ```
