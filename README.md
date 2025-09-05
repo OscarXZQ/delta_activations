@@ -1,6 +1,6 @@
 # Delta Activations: A Representation for Finetuned Large Language Models
 
-Official code release for **# Delta Activations: A Representation for Finetuned Large Language Models**
+Official code release for **Delta Activations: A Representation for Finetuned Large Language Models**
 
 Checkout our **[project website](https://oscarxzq.github.io/delta_activation)** for an interactive model embedding navigator!
 
